@@ -1,0 +1,9 @@
+.vscode
+.prettierignore
+.gitignore
+.github/
+package.lock
+CONTRIBUTORS.md
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+node_modules

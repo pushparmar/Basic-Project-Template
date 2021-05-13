@@ -1,0 +1,12 @@
+# Add 'test' label to any change to *.spec.js files within the source dir
+test:
+  - src/**/*.spec.**
+  - src/**/*.test.**
+
+dependencies:
+  - yarn.lock
+  - package-lock.json
+
+documentation:
+  -**.md
+  -**/**/*.md

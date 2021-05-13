@@ -1,0 +1,14 @@
+public
+static
+.cache
+content
+!**/.eslintrc*
+node_modules*
+dist
+*.svg
+*.ico
+*.json
+.gitignore
+*.md
+*.log
+*.lock
